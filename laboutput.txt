@@ -1,0 +1,21 @@
+Output from lab7g.py:
+print() call in main on a: object_in_main
+print() call in function1 on a: object_function1
+print() call in main on a: object_in_main
+print() call in function2 on a: function2_object
+print() call in main on a: object_in_main
+
+Output from lab7h.py:
+print() in main on schoolName: Seneca College
+print() in function1 on schoolName: Seneca College
+print() in main on schoolName: Seneca College
+print() in function2 on schoolName: Seneca College
+print() in main on schoolName: Seneca College
+
+Output from lab7i.py:
+print() in main on schoolName: Seneca
+print() in function1 on schoolName: SICT
+print() in main on schoolName: SICT
+print() in function2 on schoolName: SSDO
+print() in main on schoolName: SSDO
+
